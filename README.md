@@ -1,0 +1,2 @@
+# blog
+Seant's blog
